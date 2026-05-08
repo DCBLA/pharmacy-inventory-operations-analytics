@@ -55,11 +55,11 @@ The images below are selected, non-identifying excerpts from the original group 
 
 ### Seasonal Demand Forecasting
 
-![Seasonal demand forecasting slide excerpt](assets/slide_seasonal_forecasting.webp)
+![Seasonal demand forecasting slide excerpt](assets/slide_seasonal_forecasting_preview.jpg)
 
 ### Trade-Offs And Final Recommendation
 
-![Final recommendation slide excerpt](assets/slide_final_recommendation.webp)
+![Final recommendation slide excerpt](assets/slide_final_recommendation_preview.jpg)
 
 ## Methods Used
 
@@ -103,8 +103,8 @@ pharmacy-inventory-operations-analytics/
 |   |-- inventory_analytics_workflow.svg
 |   |-- policy_recommendations.svg
 |   |-- slide_abc_classification.webp
-|   |-- slide_seasonal_forecasting.webp
-|   `-- slide_final_recommendation.webp
+|   |-- slide_seasonal_forecasting_preview.jpg
+|   `-- slide_final_recommendation_preview.jpg
 |-- docs/
 |   |-- source_handling.md
 |   `-- methods_summary.md
