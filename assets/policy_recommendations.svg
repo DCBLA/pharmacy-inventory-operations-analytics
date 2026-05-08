@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330" role="img" aria-labelledby="title desc">
+  <title id="title">Inventory policy recommendations</title>
+  <desc id="desc">Three recommended inventory policies for A, B, and C class pharmacy medicines.</desc>
+  <rect width="1100" height="330" fill="#ffffff"/>
+  <style>
+    .panel { fill: #f7f9fc; stroke: #c6d0dd; stroke-width: 1.5; rx: 8; }
+    .a { fill: #b91c1c; }
+    .b { fill: #2563eb; }
+    .c { fill: #047857; }
+    .class { font: 700 34px Arial, sans-serif; fill: #ffffff; }
+    .heading { font: 700 21px Arial, sans-serif; fill: #172033; }
+    .body { font: 16px Arial, sans-serif; fill: #374151; }
+  </style>
+  <rect class="panel" x="40" y="55" width="315" height="230"/>
+  <rect class="a" x="65" y="80" width="64" height="64" rx="8"/>
+  <text class="class" x="85" y="123">A</text>
+  <text class="heading" x="150" y="98">Continuous Review</text>
+  <text class="body" x="150" y="132">Closest control for high-value</text>
+  <text class="body" x="150" y="155">or clinically critical medicines.</text>
+  <text class="body" x="65" y="205">Safety stock is justified where</text>
+  <text class="body" x="65" y="228">stockout consequence is severe.</text>
+  <rect class="panel" x="392" y="55" width="315" height="230"/>
+  <rect class="b" x="417" y="80" width="64" height="64" rx="8"/>
+  <text class="class" x="437" y="123">B</text>
+  <text class="heading" x="502" y="98">Adjusted Review</text>
+  <text class="body" x="502" y="132">Adapt controls for storage,</text>
+  <text class="body" x="502" y="155">fridge space, and patient need.</text>
+  <text class="body" x="417" y="205">Useful for products where a</text>
+  <text class="body" x="417" y="228">generic EOQ rule is too blunt.</text>
+  <rect class="panel" x="744" y="55" width="315" height="230"/>
+  <rect class="c" x="769" y="80" width="64" height="64" rx="8"/>
+  <text class="class" x="790" y="123">C</text>
+  <text class="heading" x="854" y="98">Periodic Review</text>
+  <text class="body" x="854" y="132">Weekly review for lower-value</text>
+  <text class="body" x="854" y="155">items, with seasonal uplift.</text>
+  <text class="body" x="769" y="205">Low usage value should not hide</text>
+  <text class="body" x="769" y="228">predictable seasonal stockout risk.</text>
+</svg>
