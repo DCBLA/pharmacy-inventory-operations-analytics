@@ -1,0 +1,12 @@
+# Raw academic source files are excluded from this portfolio version.
+*.pptx
+*.ppsx
+*.pdf
+*.docx
+*.xlsx
+*.csv
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
