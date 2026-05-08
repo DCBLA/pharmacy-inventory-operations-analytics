@@ -45,6 +45,22 @@ The project combined:
 7. EOQ illustration for a stable, high-volume medicine
 8. Service-level and stockout-risk evaluation
 
+## Selected Presentation Evidence
+
+The images below are selected, non-identifying excerpts from the original group presentation. Title, submission, student-ID, reference, and remit materials are excluded.
+
+### ABC Classification
+
+![ABC classification slide excerpt](assets/slide_abc_classification.webp)
+
+### Seasonal Demand Forecasting
+
+![Seasonal demand forecasting slide excerpt](assets/slide_seasonal_forecasting.webp)
+
+### Trade-Offs And Final Recommendation
+
+![Final recommendation slide excerpt](assets/slide_final_recommendation.webp)
+
 ## Methods Used
 
 | Method | Purpose |
@@ -85,7 +101,10 @@ The final recommendation is to prioritise near-zero stockout risk for clinically
 pharmacy-inventory-operations-analytics/
 |-- assets/
 |   |-- inventory_analytics_workflow.svg
-|   `-- policy_recommendations.svg
+|   |-- policy_recommendations.svg
+|   |-- slide_abc_classification.webp
+|   |-- slide_seasonal_forecasting.webp
+|   `-- slide_final_recommendation.webp
 |-- docs/
 |   |-- source_handling.md
 |   `-- methods_summary.md
