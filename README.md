@@ -47,7 +47,7 @@ The project combined:
 
 ## Selected Presentation Evidence
 
-The images below are selected, non-identifying excerpts from the original group presentation. Title, submission, student-ID, reference, and remit materials are excluded.
+The images below are selected, non-identifying slide excerpts adapted from the original group presentation. Title, submission, student-ID, reference, and remit materials are excluded.
 
 ### ABC Classification
 
@@ -55,11 +55,11 @@ The images below are selected, non-identifying excerpts from the original group 
 
 ### Seasonal Demand Forecasting
 
-![Seasonal demand forecasting slide excerpt](assets/slide_seasonal_forecasting_preview.jpg)
+![Seasonal demand forecasting slide excerpt](assets/slide_seasonal_forecasting.svg)
 
 ### Trade-Offs And Final Recommendation
 
-![Final recommendation slide excerpt](assets/slide_final_recommendation_preview.jpg)
+![Final recommendation slide excerpt](assets/slide_final_recommendation.svg)
 
 ## Methods Used
 
@@ -103,8 +103,8 @@ pharmacy-inventory-operations-analytics/
 |   |-- inventory_analytics_workflow.svg
 |   |-- policy_recommendations.svg
 |   |-- slide_abc_classification.webp
-|   |-- slide_seasonal_forecasting_preview.jpg
-|   `-- slide_final_recommendation_preview.jpg
+|   |-- slide_seasonal_forecasting.svg
+|   `-- slide_final_recommendation.svg
 |-- docs/
 |   |-- source_handling.md
 |   `-- methods_summary.md

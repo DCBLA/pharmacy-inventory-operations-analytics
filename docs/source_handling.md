@@ -14,15 +14,15 @@ Excluded materials:
 
 Included materials:
 
-- selected non-identifying slide excerpts showing analytical outputs
+- selected non-identifying slide excerpts and recreated visuals showing analytical outputs
 - redesigned portfolio summary visuals
 - rewritten case-study narrative, methods, findings, recommendations, and limitations
 
 ## Visual Treatment
 
-The repository includes three selected slide screenshots covering ABC classification, seasonal forecasting, and final recommendations. These were chosen because they show the analytical work while avoiding student IDs, submission details, title slides, university-specific brief content, and full reference slides.
+The repository includes selected presentation evidence covering ABC classification, seasonal forecasting, and final recommendations. These were chosen because they show the analytical work while avoiding student IDs, submission details, title slides, university-specific brief content, and full reference slides.
 
-The full submitted deck is deliberately excluded. The README combines selected evidence from the presentation with redesigned portfolio visuals so the project reads as a professional case study rather than a raw coursework upload.
+The full submitted deck is deliberately excluded. The README combines selected evidence from the presentation with cleaned portfolio visuals so the project reads as a professional case study rather than a raw coursework upload.
 
 ## Group Work Disclosure
 
